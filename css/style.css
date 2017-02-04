@@ -1462,7 +1462,7 @@ body.login-page {
     transition: color 0.5s;
 }
 
-.quora:hover
+.fa-quora:hover
 {
     color:lightcoral;
     -webkit-transition: color 0.5s;
@@ -1480,5 +1480,5 @@ body.login-page {
     -webkit-transition: 0.8s;
             transition: 0.8s;
     background-color: rgba(51, 122, 183, 0.1);
-    border-radius: 40%;
+    border-radius: 10%;
 }
