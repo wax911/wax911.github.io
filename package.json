@@ -1,0 +1,42 @@
+{
+  "name": "wax911",
+  "version": "1.0.0",
+  "description": "wax911.github.io landing page",
+  "main": "app.jsx",
+  "scripts": {
+    "dev-local": "webpack-dev-server --content-base src --inline --hot",
+    "dev-hosted": "webpack-dev-server --port 3000 --content-base src --inline --hot --host 0.0.0.0",
+    "prod-monitor": "webpack -p --watch",
+    "prod": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://wax911.github.io/"
+  },
+  "author": "wax911",
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-react-html-attrs": "^2.0.0",
+    "babel-plugin-transform-class-properties": "^6.23.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.23.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "flux": "^3.1.2",
+    "history": "^3.2.1",
+    "lodash": "^4.17.4",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "waypoints": "^4.0.1",
+    "webpack": "^2.7.0",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.1",
+    "eslint-plugin-react": "^7.3.0"
+  }
+}
