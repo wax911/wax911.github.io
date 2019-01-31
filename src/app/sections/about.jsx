@@ -36,7 +36,7 @@ export default class About extends React.Component {
                             <div class="col-md-7">
                                 <div class="card-content">
                                     <h4 class="card-title">Maxwell Mapako</h4>
-                                    <h6 class="category text-muted">Software Developer / Freelancer</h6>
+                                    <h6 class="category text-muted">Software Engineer / Freelancer</h6>
 
                                     <p class="card-description">
                                         Without ambition one starts nothing. Without work one finishes nothing. The prize will not be sent to you. You have to win it. 🎸
@@ -45,7 +45,6 @@ export default class About extends React.Component {
                                     <div class="footer">
                                         <a href="https://plus.google.com/u/1/+MaxwellMapakot" class="btn btn-just-icon btn-simple btn-google"><i class="fa fa-google"></i><div class="ripple-container"></div></a>
                                         <a href="https://za.linkedin.com/in/maxwell-mapako-32866b5b" class="btn btn-just-icon btn-simple btn-linkedin"><i class="fa fa-linkedin"></i><div class="ripple-container"></div></a>
-                                        <a href="https://www.instagram.com/teewax/" class="btn btn-just-icon btn-simple btn-instagram"><i class="fa fa-instagram"></i><div class="ripple-container"></div></a>
                                     </div>
                                 </div>
                             </div>
