@@ -29,7 +29,7 @@
     "flux": "^3.1.2",
     "history": "^3.2.1",
     "lodash": "^4.17.4",
-    "react": "^15.4.2",
+    "react": "^15.6.2",
     "react-dom": "^15.4.2",
     "waypoints": "^4.0.1",
     "webpack": "^2.7.0",
