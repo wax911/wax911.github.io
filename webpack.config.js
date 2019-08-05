@@ -10,7 +10,7 @@ module.exports = {
     devtool: debug ? "inline-sourcemap" : null,
     entry: path.join(APP_DIR, "app.jsx"),
     module: {
-        loaders: [{
+        rules: [{
             test: /\.jsx?$/,
             include: APP_DIR,
             exclude: /(node_modules|bower_components)/,

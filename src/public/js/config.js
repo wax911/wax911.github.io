@@ -8,14 +8,18 @@ $(window).ready(function() {
 });
 
 $(document).ready(function () {
-    var smoothoptions = {updateURL: false, offset: 0};
-    var smooth = smoothScroll.init(smoothoptions);
+
+    var scroll = new SmoothScroll('a[href*="#"]', {
+      speed: 500,
+      easing: 'easeInOutCubic',
+      updateURL: false, 
+      offset: 0
+    });
 
     if ( window.location.hash ) {
-        var hash = smooth.escape(window.location.hash); // Escape the hash
-        var toggle = document.querySelector('a[href*="' + hash + '"]'); // Get the toggle (if one exists)
-        var options = {speed: 1000, easing: 'easeOutQuad'}; // Any custom options you want to use would go here
-        smooth.animateScroll(hash, toggle, options);
+      var hash = window.location.hash; // Escape the hash
+      var toggle = document.querySelector('a[href*="' + hash + '"]'); // Get the toggle (if one exists)
+      scroll.animateScroll(hash, toggle);
     }
 
     // -------------------------------------------------------------
