@@ -32,7 +32,7 @@
     "lodash": "^4.17.14",
     "react-dom": "^16.8.6",
     "waypoints": "^4.0.1",
-    "webpack": "^4.38.0",
+    "webpack": "^4.39.1",
     "webpack-dev-server": "^3.7.2"
   },
   "devDependencies": {
