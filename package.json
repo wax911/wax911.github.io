@@ -30,7 +30,7 @@
     "history": "^4.9.0",
     "lodash": "^4.17.14",
     "react": "^16.9.0",
-    "react-dom": "^16.8.6",
+    "react-dom": "^16.9.0",
     "waypoints": "^4.0.1",
     "webpack": "^4.39.1",
     "webpack-dev-server": "^3.8.0"
