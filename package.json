@@ -1,6 +1,6 @@
 {
   "name": "wax911",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "wax911.github.io landing page",
   "main": "app.jsx",
   "scripts": {
@@ -27,17 +27,17 @@
     "babel-preset-react": "^6.23.0",
     "babel-preset-stage-0": "^6.22.0",
     "flux": "^3.1.2",
-    "history": "^4.9.0",
+    "history": "^4.10.1",
     "lodash": "^4.17.14",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
+    "react": "^16.10.1",
+    "react-dom": "^16.10.1",
     "waypoints": "^4.0.1",
-    "webpack": "^4.39.1",
-    "webpack-dev-server": "^3.7.2"
+    "webpack": "^4.41.0",
+    "webpack-dev-server": "^3.8.1"
   },
   "devDependencies": {
-    "eslint": "^6.1.0",
+    "eslint": "^6.5.0",
     "eslint-plugin-react": "^7.14.3",
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^3.3.9"
   }
 }
