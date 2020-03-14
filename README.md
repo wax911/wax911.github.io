@@ -1,4 +1,4 @@
-## [wax911.github.io](http://wax911.github.io)
+## [wax911.github.io](http://wax911.github.io) ![Node.js CI](https://github.com/wax911/wax911.github.io/workflows/Node.js%20CI/badge.svg?branch=develop)
 This is just a simple web application made using react to show case some of my projects.
 
 ## Libraries Used
