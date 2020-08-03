@@ -36,7 +36,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
-    "eslint": "^7.5.0",
+    "eslint": "^7.6.0",
     "eslint-plugin-react": "^7.20.3",
     "webpack-cli": "^3.3.12"
   }
