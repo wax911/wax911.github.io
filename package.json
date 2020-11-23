@@ -6,8 +6,8 @@
   "scripts": {
     "dev-local": "webpack-dev-server --content-base src --inline --hot",
     "dev-hosted": "webpack-dev-server --port 3000 --content-base src --inline --hot --host 0.0.0.0",
-    "prod-monitor": "webpack -p --watch",
-    "prod": "webpack -p"
+    "prod-monitor": "webpack --progress --watch",
+    "prod": "webpack --progress"
   },
   "repository": {
     "type": "git",
