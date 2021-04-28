@@ -1,0 +1,12 @@
+version: 2
+updates:
+- package-ecosystem: npm
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "03:00"
+    timezone: Africa/Johannesburg
+  open-pull-requests-limit: 4
+  target-branch: develop
+  reviewers:
+  - wax911
