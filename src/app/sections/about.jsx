@@ -8,7 +8,7 @@ export default class About extends React.Component {
 
     render() {
         const profileStyle = {
-            "backgroundImage": 'url(./src/public/img/myphoto.jpg)',
+            "backgroundImage": 'url(./img/myphoto.jpg)',
             "opacity": 1
         };
         return(
@@ -29,7 +29,7 @@ export default class About extends React.Component {
                             <div class="col-md-5">
                                 <div class="card-image">
                                     <a href="https://play.google.com/store/apps/dev?id=6631186001868474976">
-                                        <img class="img" src="./src/public/img/myphoto.jpg" />
+                                        <img class="img" src="./img/myphoto.jpg" />
                                     </a>
                                 <div class="colored-shadow" style={profileStyle}></div><div class="ripple-container"></div></div>
                             </div>

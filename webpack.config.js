@@ -2,7 +2,7 @@ var debug = process.env.NODE_ENV !== "production";
 var webpack = require('webpack');
 var path = require('path');
 
-var BUILD_DIR = path.resolve(__dirname, 'src/public/js');
+var BUILD_DIR = path.resolve(__dirname, 'docs/js');
 var APP_DIR = path.resolve(__dirname, 'src/app');
 
 module.exports = {
