@@ -1,37 +1,37 @@
 [{
     "title": "AniTrend",
-    "image": "./src/public/img/resources/anitrend/1.png",
+    "image": "./img/resources/anitrend/1.png",
     "url": "https://anitrend.co/"
 },{
     "title": "AniTrend",
-    "image": "./src/public/img/resources/anitrend/2.png",
+    "image": "./img/resources/anitrend/2.png",
     "url": "https://anitrend.co/"
 },{
     "title": "AniTrend",
-    "image": "./src/public/img/resources/anitrend/3.png",
+    "image": "./img/resources/anitrend/3.png",
     "url": "https://anitrend.co/"
 },{
     "title": "Emojify",
-    "image": "./src/public/img/resources/emojify/1.png",
+    "image": "./img/resources/emojify/1.png",
     "url": "https://www.uplabs.com/posts/android-emojify"
 },{
     "title": "Emojify",
-    "image": "./src/public/img/resources/emojify/2.png",
+    "image": "./img/resources/emojify/2.png",
     "url": "https://www.uplabs.com/posts/android-emojify"
 },{
     "title": "Emojify",
-    "image": "./src/public/img/resources/emojify/3.png",
+    "image": "./img/resources/emojify/3.png",
     "url": "https://www.uplabs.com/posts/android-emojify"
 },{
     "title": "LP Solver",
-    "image": "./src/public/img/resources/linear/1.png",
+    "image": "./img/resources/linear/1.png",
     "url": "https://play.google.com/store/apps/details?id=com.mxt.linearprogrammingsolver"
 },{
     "title": "LP Solver",
-    "image": "./src/public/img/resources/linear/2.png",
+    "image": "./img/resources/linear/2.png",
     "url": "https://play.google.com/store/apps/details?id=com.mxt.linearprogrammingsolver"
 },{
     "title": "LP Solver",
-    "image": "./src/public/img/resources/linear/3.png",
+    "image": "./img/resources/linear/3.png",
     "url": "https://play.google.com/store/apps/details?id=com.mxt.linearprogrammingsolver"
 }]

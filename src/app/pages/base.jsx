@@ -5,7 +5,7 @@ import Index from "../pages/index.jsx";
 
 export default class Base extends React.Component {
     render() {
-        const background = { "backgroundImage": 'url(./src/public/img/markus-spiske-148030.jpg)' };
+        const background = { "backgroundImage": 'url(./img/markus-spiske-148030.jpg)' };
         return(
             <div>
                 <div>

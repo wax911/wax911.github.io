@@ -88,3 +88,4 @@ typings/
 .dynamodb/
 
 # End of https://www.gitignore.io/api/web,node
+docs/js/app.min.js
